@@ -1,4 +1,4 @@
-var prenom = prompt ("Entrer votre prenom")
+var prenom = prompt ("Entrer votre prenom");
 
 var nom = prompt ("Nom");
 
